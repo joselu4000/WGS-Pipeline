@@ -1,0 +1,3 @@
+New_ID	Original_ID
+SAMPLE_001	original_folder_001
+SAMPLE_002	original_folder_002

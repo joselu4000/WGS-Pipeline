@@ -1,0 +1,3 @@
+Sample	Type	Source	Industry	Description
+SAMPLE_001	surface	food	industry_A	description
+SAMPLE_002	clinical	clinical	hospital	description
